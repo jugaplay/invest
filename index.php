@@ -23,7 +23,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
-    <!-- Modernizr Scripts --> analytics
+    <!-- Modernizr Scripts -->
     <script src="js/modernizr-2.7.1.min.js"></script>
     <script src="js/analytics.js"></script>
   </head>
