@@ -50,6 +50,7 @@
 
             <!-- Sub title -->
             <p>A NEW ERA IS COMING</p>
+            <a href="Jugaplay_deck.pdf" target="_blank" class="btn btn-success btn-lg" style="font-size: 1.5em;">Download deck</a>
 
             <!-- Button -->
             <!--div class="buttons-wrapper">
@@ -123,7 +124,7 @@
           <div class="col-md-12">
 
             <!-- Title -->
-            <h2>Deck</h2>
+            <h2>For more information</h2>
 
             <!-- Subscribe form -->
             <div class="row">
@@ -131,14 +132,14 @@
               <div class="col-md-6 col-md-offset-3 subscribeCol">
 
                   <!-- Button -->
-                  <a href="Jugaplay_deck.pdf" target="_blank" class="btn btn-success">Open deck</a>
+
                    <!-- /.subscribe-form -->
 
 
 
                 <section class="subscribe-description">
 
-                  <p>For more information write to <b>info@jugaplay.com</b></p>
+                  <p>Write to <b>info@jugaplay.com</b></p>
 
                 </section> <!-- /.subscribe-description -->
 
